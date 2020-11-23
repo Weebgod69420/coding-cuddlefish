@@ -13,6 +13,21 @@ ul {
   font-family: asap;
 }
 
+#div1 {
+  padding-bottom: 20px;
+  margin: 0px;
+  border: 1px solid black;
+  border-radius: 10px;
+  align-items: center;
+}
+
+#title {
+  font-size: 500%;
+  margin: 2%;
+  margin-right: 40%;
+}
+
+
 
 @font-face{
   src: url(fonts/Jost-VariableFont_wght.ttf);
